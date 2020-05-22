@@ -2,4 +2,4 @@ hola soy Nestor //anterior hola soy David
 Esto es una practica de control de versiones
 Hoy es Miercoles
 adicionamos primera linea
-adicionamos segunda linea
+eliminamos una linea y subimos otra esta por ejemplo jj
